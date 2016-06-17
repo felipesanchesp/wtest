@@ -1,2 +1,4 @@
-# wtest
-Projeto de Automação de testes
+Meu programa com a utilização de:
+Cucumber, Capybara e HTTParty
+
+Utilizado para Testes automatizados.
